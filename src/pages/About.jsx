@@ -7,33 +7,33 @@ function About() {
       name: "John Doe",
       designation: "Senior Travel Guide",
       image: "assets/img/team-1.jpg",
-      facebook: "#",
-      twitter: "#",
-      instagram: "#",
+      facebook: "https://facebook.com",
+      twitter: "https://twitter.com",
+      instagram: "https://instagram.com",
     },
     {
       name: "Emily Smith",
       designation: "Adventure Specialist",
       image: "assets/img/team-2.jpg",
-      facebook: "#",
-      twitter: "#",
-      instagram: "#",
+      facebook: "https://facebook.com",
+      twitter: "https://twitter.com",
+      instagram: "https://instagram.com",
     },
     {
       name: "Carlos Mendes",
       designation: "Tour Coordinator",
       image: "assets/img/team-3.jpg",
-      facebook: "#",
-      twitter: "#",
-      instagram: "#",
+      facebook: "https://facebook.com",
+      twitter: "https://twitter.com",
+      instagram: "https://instagram.com",
     },
     {
       name: "Aisha Khan",
       designation: "Cultural Expert",
       image: "assets/img/team-4.jpg",
-      facebook: "#",
-      twitter: "#",
-      instagram: "#",
+      facebook: "https://facebook.com",
+      twitter: "https://twitter.com",
+      instagram: "https://instagram.com",
     },
   ];
   return (
@@ -141,7 +141,7 @@ function About() {
                 </p>
               </div>
             </div>
-            <a className="btn btn-primary py-3 px-5 mt-2" href="">
+            <a className="btn btn-primary py-3 px-5 mt-2" href="/services">
               Read More
             </a>
           </div>

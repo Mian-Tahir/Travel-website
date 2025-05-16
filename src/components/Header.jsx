@@ -48,31 +48,31 @@ function Header() {
           >
             <a
               className="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-              to=""
+              href="https://twitter.com"
             >
               <i className="fab fa-twitter fw-normal" />
             </a>
             <a
               className="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-              to=""
+              href="https://facebook.com"
             >
               <i className="fab fa-facebook-f fw-normal" />
             </a>
             <a
               className="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-              to=""
+              href="https://linkedin.com"
             >
               <i className="fab fa-linkedin-in fw-normal" />
             </a>
             <a
               className="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-              to=""
+              href="https://instagram.com"
             >
               <i className="fab fa-instagram fw-normal" />
             </a>
             <a
               className="btn btn-sm btn-outline-light btn-sm-square rounded-circle"
-              to=""
+              href="https://youtube.com"
             >
               <i className="fab fa-youtube fw-normal" />
             </a>
@@ -115,7 +115,7 @@ function Header() {
             </Link>
             <div className="nav-item dropdown">
               <Link
-                to="#"
+                to="/pages"
                 className="nav-link dropdown-toggle"
                 data-bs-toggle="dropdown"
               >

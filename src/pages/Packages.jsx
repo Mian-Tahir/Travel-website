@@ -1,5 +1,4 @@
-
-import React, { useState, useEffect} from 'react'
+import React, { useState } from 'react'
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 function Packages() {
@@ -74,10 +73,10 @@ function Packages() {
               Explore the beaches, temples, and vibrant culture of Thailand in this unforgettable 3-day escape.
             </p>
             <div className="d-flex justify-content-center mb-2">
-              <a href="#" className="btn btn-sm btn-primary px-3 border-end" style={{ borderRadius: "30px 0 0 30px" }}>
+              <a href="/packages/thailand" className="btn btn-sm btn-primary px-3 border-end" style={{ borderRadius: "30px 0 0 30px" }}>
                 Read More
               </a>
-              <a href="#" className="btn btn-sm btn-primary px-3" style={{ borderRadius: "0 30px 30px 0" }}>
+              <a href="/booking/thailand" className="btn btn-sm btn-primary px-3" style={{ borderRadius: "0 30px 30px 0" }}>
                 Book Now
               </a>
             </div>
@@ -115,10 +114,10 @@ function Packages() {
               Dive into Bali's scenic beauty and rich heritage with our crafted Indonesia travel package.
             </p>
             <div className="d-flex justify-content-center mb-2">
-              <a href="#" className="btn btn-sm btn-primary px-3 border-end" style={{ borderRadius: "30px 0 0 30px" }}>
+              <a href="/packages/indonesia" className="btn btn-sm btn-primary px-3 border-end" style={{ borderRadius: "30px 0 0 30px" }}>
                 Read More
               </a>
-              <a href="#" className="btn btn-sm btn-primary px-3" style={{ borderRadius: "0 30px 30px 0" }}>
+              <a href="/booking/indonesia" className="btn btn-sm btn-primary px-3" style={{ borderRadius: "0 30px 30px 0" }}>
                 Book Now
               </a>
             </div>
@@ -156,10 +155,10 @@ function Packages() {
               Enjoy the urban buzz of Kuala Lumpur and the serenity of Langkawi in this versatile travel plan.
             </p>
             <div className="d-flex justify-content-center mb-2">
-              <a href="#" className="btn btn-sm btn-primary px-3 border-end" style={{ borderRadius: "30px 0 0 30px" }}>
+              <a href="/packages/malaysia" className="btn btn-sm btn-primary px-3 border-end" style={{ borderRadius: "30px 0 0 30px" }}>
                 Read More
               </a>
-              <a href="#" className="btn btn-sm btn-primary px-3" style={{ borderRadius: "0 30px 30px 0" }}>
+              <a href="/booking/malaysia" className="btn btn-sm btn-primary px-3" style={{ borderRadius: "0 30px 30px 0" }}>
                 Book Now
               </a>
             </div>
@@ -185,7 +184,7 @@ function Packages() {
           <p className="mb-4">
             Customize your itinerary by selecting dates, destinations, and special requests—our dedicated support team is here to ensure every detail exceeds your expectations.
           </p>
-          <a className="btn btn-outline-light py-3 px-5 mt-2" href="#!">
+          <a className="btn btn-outline-light py-3 px-5 mt-2" href="/booking">
             Learn More
           </a>
         </div>

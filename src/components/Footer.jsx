@@ -43,16 +43,16 @@ export default function Footer() {
               support@yourtravelco.com
             </p>
             <div className="d-flex pt-2">
-              <a className="btn btn-outline-light btn-social" href="/">
+              <a className="btn btn-outline-light btn-social" href="https://twitter.com">
                 <i className="fab fa-twitter" />
               </a>
-              <a className="btn btn-outline-light btn-social" href="/">
+              <a className="btn btn-outline-light btn-social" href="https://facebook.com">
                 <i className="fab fa-facebook-f" />
               </a>
-              <a className="btn btn-outline-light btn-social" href="">
+              <a className="btn btn-outline-light btn-social" href="https://youtube.com">
                 <i className="fab fa-youtube" />
               </a>
-              <a className="btn btn-outline-light btn-social" href="">
+              <a className="btn btn-outline-light btn-social" href="https://linkedin.com">
                 <i className="fab fa-linkedin-in" />
               </a>
             </div>
