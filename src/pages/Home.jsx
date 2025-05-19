@@ -209,88 +209,88 @@ export default function Home() {
     </div>
     <div className="row g-4">
       <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-        <div className="service-item rounded pt-3">
-          <div className="p-4">
+        <div className="service-item rounded pt-3 h-100">
+          <div className="p-4 d-flex flex-column h-100">
             <i className="fa fa-3x fa-globe text-primary mb-4" />
             <h5>Worldwide Tours</h5>
-            <p>
+            <p className="flex-grow-1">
               Discover stunning destinations around the world with carefully planned itineraries and expert guidance.
             </p>
           </div>
         </div>
       </div>
       <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-        <div className="service-item rounded pt-3">
-          <div className="p-4">
+        <div className="service-item rounded pt-3 h-100">
+          <div className="p-4 d-flex flex-column h-100">
             <i className="fa fa-3x fa-hotel text-primary mb-4" />
             <h5>Hotel Reservation</h5>
-            <p>
+            <p className="flex-grow-1">
               Book from a selection of top-rated hotels with exclusive deals for the perfect stay anywhere you travel.
             </p>
           </div>
         </div>
       </div>
       <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-        <div className="service-item rounded pt-3">
-          <div className="p-4">
+        <div className="service-item rounded pt-3 h-100">
+          <div className="p-4 d-flex flex-column h-100">
             <i className="fa fa-3x fa-user text-primary mb-4" />
             <h5>Travel Guides</h5>
-            <p>
+            <p className="flex-grow-1">
               Get insider knowledge and local insights from experienced guides for a truly immersive travel experience.
             </p>
           </div>
         </div>
       </div>
       <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-        <div className="service-item rounded pt-3">
-          <div className="p-4">
+        <div className="service-item rounded pt-3 h-100">
+          <div className="p-4 d-flex flex-column h-100">
             <i className="fa fa-3x fa-cog text-primary mb-4" />
             <h5>Event Management</h5>
-            <p>
+            <p className="flex-grow-1">
               Whether it's a wedding, conference, or special event, we handle all planning and logistics seamlessly.
             </p>
           </div>
         </div>
       </div>
       <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-        <div className="service-item rounded pt-3">
-          <div className="p-4">
+        <div className="service-item rounded pt-3 h-100">
+          <div className="p-4 d-flex flex-column h-100">
             <i className="fa fa-3x fa-passport text-primary mb-4" />
             <h5>Visa Assistance</h5>
-            <p>
+            <p className="flex-grow-1">
               Get professional help with visa processing and documentation to ensure a stress-free travel experience.
             </p>
           </div>
         </div>
       </div>
       <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-        <div className="service-item rounded pt-3">
-          <div className="p-4">
+        <div className="service-item rounded pt-3 h-100">
+          <div className="p-4 d-flex flex-column h-100">
             <i className="fa fa-3x fa-shield-alt text-primary mb-4" />
             <h5>Travel Insurance</h5>
-            <p>
+            <p className="flex-grow-1">
               Stay protected with comprehensive travel insurance plans covering medical emergencies, cancellations, and more.
             </p>
           </div>
         </div>
       </div>
       <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-        <div className="service-item rounded pt-3">
-          <div className="p-4">
+        <div className="service-item rounded pt-3 h-100">
+          <div className="p-4 d-flex flex-column h-100">
             <i className="fa fa-3x fa-map-marked-alt text-primary mb-4" />
             <h5>Custom Itineraries</h5>
-            <p>
+            <p className="flex-grow-1">
               Enjoy tailor-made itineraries based on your preferences, travel style, and unique needs for every journey.
             </p>
           </div>
         </div>
       </div>
       <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-        <div className="service-item rounded pt-3">
-          <div className="p-4">
+        <div className="service-item rounded pt-3 h-100">
+          <div className="p-4 d-flex flex-column h-100">
             <i className="fa fa-3x fa-headset text-primary mb-4" />
             <h5>24/7 Support</h5>
-            <p>
+            <p className="flex-grow-1">
               Our support team is always available to assist you before, during, and after your trip, anytime you need.
             </p>
           </div>

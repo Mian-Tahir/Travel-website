@@ -18,13 +18,13 @@ export default function Footer() {
             <a className="btn btn-link" href="/Contact">
               Contact Us
             </a>
-            <a className="btn btn-link" href="/">
+            <a className="btn btn-link" href="/PrivacyPolicy">
               Privacy Policy
             </a>
-            <a className="btn btn-link" href="/">
+            <a className="btn btn-link" href="/TermsConditions">
               Terms &amp; Condition
             </a>
-            <a className="btn btn-link" href="/">
+            <a className="btn btn-link" href="/faq">
               FAQs &amp; Help
             </a>
           </div>
